@@ -1,7 +1,7 @@
 
 ;; market
 
-(use-trait nft-trait .sip009-nft-trait.nft-trait)
+(use-trait nft-trait .nft-trait.nft-trait)
 
 (define-constant err-unknown-listing (err u100))
 (define-constant err-not-the-maker (err u101))
