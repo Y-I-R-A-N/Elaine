@@ -1,5 +1,5 @@
 
-;; sip009-nft-trait
+;; nft-trait
 
 (define-trait nft-trait
   (
