@@ -2,7 +2,7 @@
 ;; elaine-token
 
 
-(impl-trait .sip009-nft-trait.nft-trait)
+(impl-trait .nft-trait.nft-trait)
 
 (define-non-fungible-token elaine-token uint)
 (define-data-var last-token-id uint u0)
