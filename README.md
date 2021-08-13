@@ -8,4 +8,5 @@ I built a simple NFT Auction Marketplace step by step following Xan and Marvin's
     - Other users can fulfil a listing; meaning, they can buy the NFT from the marketplace.
 
 Generally I think it is a great start for smart contract <3
+
 Fantastic experience and thanks to Xan and Marvin.
